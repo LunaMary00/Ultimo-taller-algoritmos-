@@ -1,4 +1,4 @@
-public class rule_2 {
+public class reto_2 {
 
     // metodo calcularPromedio
 public static double calcularPromedio (int [] notas){ 
