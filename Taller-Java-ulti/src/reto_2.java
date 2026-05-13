@@ -41,6 +41,7 @@ public static int contarAprobados (int [] notas){
     }
     return sumaAprobados; 
         }
+    // AGREGAR METODO DE ESTADO ARPOBADO Y NO APROBAADO Y ORGANIZAR NOTA MAX, NOTA MIN  Y PROMEDIO-----------------------ARREGLAR
 
     // metodo mostrarReporte
     public static void mostrarReporte (String [] nombresEstudiantes,int [] notas) {
@@ -48,6 +49,7 @@ public static int contarAprobados (int [] notas){
         System.out.println("nombre:" + "\t" + "nota:" + "\t" + "estado:");
     for (int i = 0; i < nombresEstudiantes.length; i++)
      {
+         
        
         System.out.println( nombresEstudiantes[i] + "\t" +notas[i] + "\t");
        /* System.out.println("Promedio: " + calcularPromedio(notas) + "\n" + "Nota maxima: " + buscarMaximo(notas) + "\n" + "Nota minima: " + buscarMinimo(notas) + "\n" + "Cantidad de Aprobados: " + contarAprobados(notas) );
