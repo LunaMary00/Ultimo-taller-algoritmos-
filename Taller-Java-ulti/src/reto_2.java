@@ -29,6 +29,8 @@ public static int buscarMinimo (int [] notas){
     }
     return minimo;
 }
+
+    //HAY QUE USAR FOR-EACH Y CAMBIAR 60 POR 30----------------------CAMBIO
 //metodo contarAprobados
 public static int contarAprobados (int [] notas){
     int sumaAprobados = 0;
