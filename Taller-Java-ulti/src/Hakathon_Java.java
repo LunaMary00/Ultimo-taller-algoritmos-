@@ -1,5 +1,10 @@
 import java.util.Arrays;
 
+// Luna Cuesto
+// Lucas Balen
+// Andrea Martinez
+// Angie Mesa
+
 public class Hakathon_Java {
 
 //RETO 01 
